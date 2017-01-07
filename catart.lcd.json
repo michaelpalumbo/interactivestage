@@ -1,0 +1,101 @@
+{
+	"pattrstorage" : 	{
+		"name" : "catart.lcd",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "Michael_5",
+				"data" : 				{
+					"attack" : [ 36 ],
+					"c-descriptor-max" : [ 0.061459 ],
+					"c-descriptor-menu" : [ "Loudness 15." ],
+					"c-descriptor-min" : [ 0.000909 ],
+					"duration" : [ 29 ],
+					"duration_std" : [ 60 ],
+					"gain" : [ 1.3 ],
+					"gain_std" : [ 3.2 ],
+					"i_voice" : [ 0 ],
+					"onset_std" : [ 24 ],
+					"pan" : [ 50 ],
+					"pan_std" : [ 100 ],
+					"position-freeze" : [ 0 ],
+					"radius" : [ 0.58 ],
+					"rate" : [ 202.0 ],
+					"rate_std" : [ 213.0 ],
+					"release" : [ 78 ],
+					"reverse" : [ 7 ],
+					"transposition" : [ 0.333 ],
+					"transposition_std" : [ 2.48 ],
+					"trigger" : [ "bow" ],
+					"workset" : [ 0.0 ],
+					"x-descriptor-active" : [ 0 ],
+					"x-descriptor-max" : [ 0.005458 ],
+					"x-descriptor-menu" : [ "SpectralFlatness 17." ],
+					"x-descriptor-min" : [ 0.000214 ],
+					"xfade" : [ 143 ],
+					"xfade[1]" : [ 3 ],
+					"y-descriptor-active" : [ 0 ],
+					"y-descriptor-active[1]" : [ 0 ],
+					"y-descriptor-active[2]" : [ 0 ],
+					"y-descriptor-active[3]" : [ 0 ],
+					"y-descriptor-max" : [ 0.985201 ],
+					"y-descriptor-menu" : [ "AC1 22." ],
+					"y-descriptor-menu[1]" : [ "SoundFile 3" ],
+					"y-descriptor-menu[2]" : [ "SoundSet 4" ],
+					"y-descriptor-min" : [ -0.647722 ],
+					"position" : [ 37, 301 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "Voice_Drums",
+				"data" : 				{
+					"attack" : [ 36 ],
+					"c-descriptor-max" : [ 479.997009 ],
+					"c-descriptor-menu" : [ "Duration 10" ],
+					"c-descriptor-min" : [ 144.936005 ],
+					"duration" : [ 19 ],
+					"duration_std" : [ 60 ],
+					"gain" : [ 1.3 ],
+					"gain_std" : [ 3.2 ],
+					"i_voice" : [ 0 ],
+					"onset_std" : [ 24 ],
+					"pan" : [ 50 ],
+					"pan_std" : [ 100 ],
+					"position-freeze" : [ 0 ],
+					"radius" : [ 0.18 ],
+					"rate" : [ 53.0 ],
+					"rate_std" : [ 181.0 ],
+					"release" : [ 78 ],
+					"reverse" : [ 0 ],
+					"transposition" : [ 0.333 ],
+					"transposition_std" : [ 0.0 ],
+					"trigger" : [ "bow" ],
+					"workset" : [ 0.0 ],
+					"x-descriptor-active" : [ 0 ],
+					"x-descriptor-max" : [ 0.263934 ],
+					"x-descriptor-menu" : [ "Loudness 15." ],
+					"x-descriptor-min" : [ 0.001373 ],
+					"xfade" : [ 408 ],
+					"xfade[1]" : [ 9 ],
+					"y-descriptor-active" : [ 0 ],
+					"y-descriptor-active[1]" : [ 15 ],
+					"y-descriptor-active[2]" : [ 0 ],
+					"y-descriptor-active[3]" : [ 18 ],
+					"y-descriptor-max" : [ 124.755997 ],
+					"y-descriptor-menu" : [ "NoteNumber 14." ],
+					"y-descriptor-menu[1]" : [ "Periodicity 16." ],
+					"y-descriptor-menu[2]" : [ "SoundSet 4" ],
+					"y-descriptor-min" : [ 30.260401 ],
+					"position" : [ 368, 398 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
